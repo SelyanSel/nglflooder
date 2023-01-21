@@ -11,6 +11,11 @@
   <p align="center">
     Did you ever wanted to flood an entire NGL account with questions? This simple python script does just that!
     <br />
+    <br />
+    <strong>⚠️THIS PROJECT WAS MADE FOR EDUCATIONAL AND TESTING PURPOSES ONLY.⚠️</strong>
+    <br />
+    <strong>⚠️THE AUTHOR IS NOT RESPONSIBLE FOR ANY DAMAGE CAUSED WITH THIS TOOL.⚠️</strong>
+    <br />
         <br />
     <a href="https://github.com/Xp3rtA/nglflooder/issues">Report Bug</a>
     ·
