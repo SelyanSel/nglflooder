@@ -9,7 +9,7 @@
 <h3 align="center">NGL Flooder</h3>
 
   <p align="center">
-    Did you ever wanted to flood an entire NGL account with questions? This simple python script does just that!
+    Did you ever want to flood an entire NGL account with questions? This simple python script does just that!
     <br />
     <br />
     <strong>⚠️THIS PROJECT WAS MADE FOR EDUCATIONAL AND TESTING PURPOSES ONLY.⚠️</strong>
